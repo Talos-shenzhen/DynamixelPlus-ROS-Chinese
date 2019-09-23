@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<package>
+  <name>touchidea485</name>
+  <version>0.0.1</version>
+  <description>这个功能包主要封装了用于按照 TouchIdea 协议与伺服驱动器和传感器进行通讯的驱动函数。</description>
+  <license>BSD</license>
+
+  <author>Wei Zhang</author>
+  <maintainer email="450451023@qq.com">Wei Zhang</maintainer>
+  <license>BSD</license>
+  <url type="bugtracker">https://touchideas.cn/issues</url>
+  <url type="repository">https://touchideas.cn/download/base</url>
+  <url type="website">https://touchideas.cn/blog</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roscpp</build_depend>
+  <run_depend>roscpp</run_depend>
+  <export></export>
+</package>
